@@ -11,4 +11,10 @@ As with all modern supermarkets, there are now a number of self-checkout counter
 All self-checkout counters share the same queue.
 Unlike human servers, self-checkout counters do not rest.
 When we print out the wait event, we say that the customer is waiting for the self-checkout counter k + 1, even though this customer may eventually be served by another self-checkout counter.
+Use the program Main.java provided to test the program with a default service time of 1.0. Program can also be tested against test cases where the service times could be different when serving different customers.
 
+
+Input the test cases using vim: $ java Main < 1.in
+Input:
+The first line of input consists: number of human servers, self-checkouts, maximum queue length, probablity of rest
+The following line: arrival time of customers
