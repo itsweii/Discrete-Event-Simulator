@@ -14,7 +14,7 @@ When we print out the wait event, we say that the customer is waiting for the se
 Use the program Main.java provided to test the program with a default service time of 1.0. Program can also be tested against test cases where the service times could be different when serving different customers.
 
 
-Input the test cases using vim: $ java Main < 1.in
-Input:
-The first line of input consists: number of human servers, self-checkouts, maximum queue length, probablity of rest
-The following line: arrival time of customers
+Input the test cases using vim: $ java Main < 1.in <bt/>
+Input:<bt/>
+The first line of input consists: number of human servers, self-checkouts, maximum queue length, probablity of rest<bt/>
+The following line: arrival time of customers<bt/>
